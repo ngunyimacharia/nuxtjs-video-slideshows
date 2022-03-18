@@ -35,10 +35,6 @@ export default {
           publicId:"nuxtjsvideoslideshows/nature/image1",
           type:"image"
         },
-        {
-          publicId:"nuxtjsvideoslideshows/nature/video2",
-          type:"video"
-        },
       ]
     }
   },
